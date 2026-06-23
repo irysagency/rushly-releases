@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.0.0/com.rushly.panel.zxp",
+  "sha256": "798de46a6ab1b33ee203f65559ad528c77280217caf449205faacdf278f4726f",
+  "notes": "Beta initiale — ffmpeg embarqué (extraction audio sans installation).",
+  "minHostVersion": "24.0.0",
+  "mandatory": false
+}
