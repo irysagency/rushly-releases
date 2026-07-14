@@ -1,7 +1,7 @@
 {
   "version": "1.1.0",
   "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.1.0/com.rushly.panel-win.zxp",
-  "sha256": "e008ed7dab84bace553431a70070a18e9d87941b22a320674b22021c75a6ba6e",
+  "sha256": "f80dd56a1243bba90b03edb79ee6a2dbd9817a206c90cdb76e58f737c76d90b7",
   "notes": "ffmpeg légal (LGPL) — extraction audio inchangée",
   "page": "https://rushly-ai.app",
   "minHostVersion": "24.0.0",
