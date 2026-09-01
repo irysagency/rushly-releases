@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.1.0/com.rushly.panel-win.zxp",
-  "sha256": "f80dd56a1243bba90b03edb79ee6a2dbd9817a206c90cdb76e58f737c76d90b7",
-  "notes": "ffmpeg légal (LGPL) — extraction audio inchangée",
+  "version": "1.2.0",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.2.0/com.rushly.panel-win.zxp",
+  "sha256": "96bdced67c3ecf288afd420727b1cb24e335fc5b94ee441918137c298c0b1be5",
+  "notes": "Smart Clips : plus de « 0 clip » sans explication. Multi-Cam retiré. Diagnostic d'échec automatique.",
   "page": "https://rushly-ai.app",
   "minHostVersion": "24.0.0",
   "mandatory": false
