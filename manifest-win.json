@@ -1,8 +1,8 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.2.1/com.rushly.panel-win.zxp",
-  "sha256": "81e37f1c94fea67dc98f7b8b3e00423a8a73c384df7b81c14390e443bdae2619",
-  "notes": "Les longs rushs vont au bout : plus d'abandon « Timeout » sur les podcasts de plus de 40 min.",
+  "version": "1.2.2",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.2.2/com.rushly.panel-win.zxp",
+  "sha256": "e5fd83c9945ec4d22a080846583e0d48b523cccef924ed4b9d988c4d89d49f5f",
+  "notes": "Le panneau parle enfin comme un monteur : libellés clairs, prix affiché avant de lancer, plus de jargon technique ni de compteurs bruts.",
   "page": "https://rushly-ai.app",
   "minHostVersion": "24.0.0",
   "mandatory": false
