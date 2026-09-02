@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.2.0/com.rushly.panel-win.zxp",
-  "sha256": "96bdced67c3ecf288afd420727b1cb24e335fc5b94ee441918137c298c0b1be5",
-  "notes": "Smart Clips : plus de « 0 clip » sans explication. Multi-Cam retiré. Diagnostic d'échec automatique.",
+  "version": "1.2.1",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.2.1/com.rushly.panel-win.zxp",
+  "sha256": "81e37f1c94fea67dc98f7b8b3e00423a8a73c384df7b81c14390e443bdae2619",
+  "notes": "Les longs rushs vont au bout : plus d'abandon « Timeout » sur les podcasts de plus de 40 min.",
   "page": "https://rushly-ai.app",
   "minHostVersion": "24.0.0",
   "mandatory": false
