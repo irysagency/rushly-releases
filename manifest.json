@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.2.2/com.rushly.panel.zxp",
-  "sha256": "604d5a717b6d5f2c90e8805e601e2a4a171dd68e5c5cf1a54f96a12ee43bb82d",
-  "notes": "Le panneau parle enfin comme un monteur : libellés clairs, prix affiché avant de lancer, plus de jargon technique ni de compteurs bruts.",
+  "version": "1.3.0",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.3.0/com.rushly.panel.zxp",
+  "sha256": "759d244d08f4b2de22562c32ab22e8e7e47fd5ddf54b6dfd19b9584d6e14fd70",
+  "notes": "Nouveau : l'onglet Multicam monte ton podcast multi-caméras en quelques secondes, 100 % en local et sans crédit. Et aussi : vraie barre de progression, coût affiché avant de lancer, Smart Clips annulable.",
   "minHostVersion": "24.0.0",
   "mandatory": false
 }
