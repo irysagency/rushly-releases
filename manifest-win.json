@@ -1,8 +1,8 @@
 {
-  "version": "1.3.0",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.3.0/com.rushly.panel-win.zxp",
-  "sha256": "71ef14a4a5b8eeefd2b35162d4443fbe51889e771136da5103b48e4b9928bd9a",
-  "notes": "Nouveau : l'onglet Multicam monte ton podcast multi-caméras en quelques secondes, 100 % en local et sans crédit. Et aussi : vraie barre de progression, coût affiché avant de lancer, Smart Clips annulable.",
+  "version": "1.3.1",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.3.1/com.rushly.panel-win.zxp",
+  "sha256": "933f848fc6f459127194b8af36e92f03e39c4e599288f3118ea48d5f2db37f48",
+  "notes": "Multicam : tu indiques toi-même qui est sur chaque caméra et chaque micro, et tu enregistres ton émission pour ne le faire qu'une fois.",
   "page": "https://rushly-ai.app",
   "minHostVersion": "24.0.0",
   "mandatory": false
