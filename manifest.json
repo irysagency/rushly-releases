@@ -1,8 +1,8 @@
 {
-  "version": "1.3.1",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.3.1/com.rushly.panel.zxp",
-  "sha256": "d1ab9ea446f4d6eeca692335d53f78d36714648b62ed40dfa23a72367c76a8ea",
-  "notes": "Multicam : tu indiques toi-même qui est sur chaque caméra et chaque micro, et tu enregistres ton émission pour ne le faire qu'une fois.",
+  "version": "1.3.2",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.3.2/com.rushly.panel.zxp",
+  "sha256": "d2ee4db199367217123f92c22421c6919eeca2fd320368f2fc842835092c0f06",
+  "notes": "Rushly te dit précisément pourquoi une sélection ne passe pas, et tu peux lancer Derush ou Smart Clips directement depuis un rush du panneau Projet.",
   "minHostVersion": "24.0.0",
   "mandatory": false
 }
