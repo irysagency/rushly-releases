@@ -1,8 +1,9 @@
 {
-  "version": "1.3.2",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.3.2/com.rushly.panel.zxp",
-  "sha256": "d2ee4db199367217123f92c22421c6919eeca2fd320368f2fc842835092c0f06",
-  "notes": "Rushly te dit précisément pourquoi une sélection ne passe pas, et tu peux lancer Derush ou Smart Clips directement depuis un rush du panneau Projet.",
+  "version": "1.3.3",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.3.3/com.rushly.panel.zxp",
+  "sha256": "ac72a58c16027d641cc76058e573e37b46f56c8304a36ef90d896b1c9b2a1bec",
+  "notes": "Rushly te montre la vidéo qu'il va analyser avant que tu lances, et suit ta sélection dans Premiere en direct.",
+  "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false
 }
