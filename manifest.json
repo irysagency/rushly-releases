@@ -1,8 +1,8 @@
 {
-  "version": "1.3.4",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.3.4/com.rushly.panel.zxp",
-  "sha256": "cea73b629b9e982b9fa3bfdb1c0cc211a0e34ec7f93b907a667365df3b083ff4",
-  "notes": "La mise à jour reprend toute seule si ta connexion coupe pendant le téléchargement.",
+  "version": "1.3.5",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.3.5/com.rushly.panel.zxp",
+  "sha256": "399f22e4568e4444957224cff427ed3fce7a5049d39cc8f256bc7d9d97b95b77",
+  "notes": "Raccords calés à l'image près dans le Rough Cut et les Reels : plus de trou, d'image en trop ni de son décalé entre deux plans.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false
