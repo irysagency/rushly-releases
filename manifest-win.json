@@ -1,8 +1,8 @@
 {
-  "version": "1.3.5",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.3.5/com.rushly.panel-win.zxp",
-  "sha256": "a0959f5454a71e700b30a7f70eb07c6586bb83f51e847597bb459c3c5d9a55db",
-  "notes": "Raccords calés à l'image près dans le Rough Cut et les Reels : plus de trou, d'image en trop ni de son décalé entre deux plans.",
+  "version": "1.3.6",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.3.6/com.rushly.panel-win.zxp",
+  "sha256": "9fb807f84771bb33feeec1770b9da5882939eb2ba63a175b4adfc40064c8c774",
+  "notes": "« Rough Cut » s'appelle désormais « Dérush » partout dans Rushly, et tes nouvelles séquences aussi.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false
