@@ -1,8 +1,8 @@
 {
-  "version": "1.3.7",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.3.7/com.rushly.panel.zxp",
-  "sha256": "2128c0bac301a0906f65f4c044e0343b22687cf918c818adbe19161262291e61",
-  "notes": "Tes J-cuts et L-cuts sont respectés : le Dérush et les Reels gardent la bonne image quand le son déborde sur le plan voisin. Multicam : l'image d'une caméra ne recouvre plus ton montage quand le son vient des caméras.",
+  "version": "1.4.0",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.0/com.rushly.panel.zxp",
+  "sha256": "cfddec50b15ba122a40faa9413b0c6ca428dc6630a4821f11eea9f9cf2e3b281",
+  "notes": "Nouveau : Captions. Tes sous-titres posés dans ta séquence, calés sur la voix, en graphiques Premiere que tu peux modifier. Choisis un modèle ou crée ton propre style. Inclus dans Studio et Agency, et pendant l’essai de 7 jours. 1 crédit pour 2 min de vidéo. Dérush : coupes calées sur le son, coupe en direct visible dans la timeline. Smart Clips : un rush de moins de 8 minutes est refusé avant le clic.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false
