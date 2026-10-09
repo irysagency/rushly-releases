@@ -1,8 +1,8 @@
 {
-  "version": "1.4.1",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.1/com.rushly.panel.zxp",
-  "sha256": "e7ec2f99f01cb4f7ddad15114cab3053677a26853f3fecca855fc5b7b100f1b0",
-  "notes": "Les polices des sous-titres s’installent toutes seules au démarrage (un redémarrage de Premiere peut être demandé une fois). Plan Gratuit : tes crédits offerts s’affichent et fonctionnent. Plus de crédits ? Un bouton t’emmène aux abonnements.",
+  "version": "1.4.2",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.2/com.rushly.panel.zxp",
+  "sha256": "dd8b1f54308f3371420a36e1583f43200a20b5e46159b318cf079cfb931292f0",
+  "notes": "Le Dérush affiche le bon tarif de ton compte.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false
