@@ -1,8 +1,8 @@
 {
-  "version": "1.4.3",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.3/com.rushly.panel-win.zxp",
-  "sha256": "0ef5fdff70e2991836af2e690fae7798956d5f9c53eec92c4ab84470f789eb2c",
-  "notes": "Améliorations internes.",
+  "version": "1.4.4",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.4/com.rushly.panel-win.zxp",
+  "sha256": "da5c3408cc79cee7141fd357c19946aa75a50e052251b4787c39ff89ce7457de",
+  "notes": "Sous-titres : l'option « Sans ponctuation » retire virgules, deux-points et guillemets, et garde . ! ? … Améliorations internes.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false
