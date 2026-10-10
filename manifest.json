@@ -1,8 +1,8 @@
 {
-  "version": "1.4.2",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.2/com.rushly.panel.zxp",
-  "sha256": "dd8b1f54308f3371420a36e1583f43200a20b5e46159b318cf079cfb931292f0",
-  "notes": "Le Dérush affiche le bon tarif de ton compte.",
+  "version": "1.4.3",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.3/com.rushly.panel.zxp",
+  "sha256": "98363cc820d9fec0266096cbf0b98a0dc9c5317fce5a8a3d2d81be38d3b66bb9",
+  "notes": "Améliorations internes.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false
