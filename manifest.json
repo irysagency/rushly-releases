@@ -1,8 +1,8 @@
 {
-  "version": "1.4.4",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.4/com.rushly.panel.zxp",
-  "sha256": "41fea6cdf35be6f4ea348cedd25bbee954cdb6f777e055a987a66fd977eda67c",
-  "notes": "Sous-titres : l'option « Sans ponctuation » retire virgules, deux-points et guillemets, et garde . ! ? … Améliorations internes.",
+  "version": "1.4.5",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.5/com.rushly.panel.zxp",
+  "sha256": "d7543bc74b79a5b2d4af7c0174385512138695dcd729d60dd806939cecc14819",
+  "notes": "Dérush : choisis « Normal » (comme avant) ou « Agressif » (coupe encore plus). Sous-titres : retrouve tes sous-titres après avoir fermé Premiere, et « Sans ponctuation » garde . ! ? …",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false
