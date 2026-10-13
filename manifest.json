@@ -1,8 +1,8 @@
 {
-  "version": "1.4.8",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.8/com.rushly.panel.zxp",
-  "sha256": "b4c2161507bad6eef62b71767bceb24821110fe2f5f00783a79c3b57e214a712",
-  "notes": "Sous-titres au format de ta séquence : en 16:9, en 4K, en carré ou en 4:5, l'imbrication et les sous-titres sont à la taille de ton projet. Le mot mis en avant de Mot Ciel et d'Éditorial Serif garde la même taille partout ; seul un mot trop long est réduit. Dérush : montage juste même si la séquence bouge, mode Agressif plus serré.",
+  "version": "1.4.9",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.9/com.rushly.panel.zxp",
+  "sha256": "2ed01e63ffa7656bda59c5e6cfd5228471d156673314d4b334898280000aaafa",
+  "notes": "Dérush : plus aucune fin de mot rognée, en Normal comme en Agressif, et plus de bout de mot coupé entendu entre deux plans.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false
