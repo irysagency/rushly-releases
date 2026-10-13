@@ -1,8 +1,8 @@
 {
-  "version": "1.4.10",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.10/com.rushly.panel-win.zxp",
-  "sha256": "3423cfc856ac9ef2dcedeeba4d3551b781f5303c44a478a4a5617b676c9a0b44",
-  "notes": "Sous-titres Tempo : plus de contour fantôme sous le texte ; l'ombre de chaque mot suit sa transparence. Dérush : filet anti-redites plus sûr.",
+  "version": "1.4.11",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.11/com.rushly.panel-win.zxp",
+  "sha256": "f3a59549e68a3deadadb42293cf01ee7ad1832eafb667867441c90eb7e055359",
+  "notes": "Plan Gratuit : tes crédits offerts forment désormais un seul solde, à utiliser où tu veux (Dérush, Smart Clips ou Sous-titres). Le badge affiche ce nombre.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false
