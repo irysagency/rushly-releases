@@ -1,8 +1,8 @@
 {
-  "version": "1.4.6",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.6/com.rushly.panel-win.zxp",
-  "sha256": "9e681d93259043424e1cf33beb30ffe833bec830d81b243bd86abd5454e436ef",
-  "notes": "Sous-titres : fini le message « Ouvre la séquence » alors que ta séquence est déjà ouverte — Rushly la remet lui-même au premier plan avant de poser.",
+  "version": "1.4.7",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.7/com.rushly.panel-win.zxp",
+  "sha256": "2f54effc93aac585f87cb322312a3dd4bd6e26e50013347997de92a63288d032",
+  "notes": "Sous-titres : sur les séquences horizontales (16:9) et en 4K, ils sont à la bonne place et à la bonne taille. Même taille et même position d'une phrase à l'autre. Un mot n'apparaît plus jamais coupé. « Couper avant ce mot » fonctionne. Dérush : les silences cachés dans les mots étirés sont coupés. Premiere ne se fige plus sur la lecture de la sélection.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false
