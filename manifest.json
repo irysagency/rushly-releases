@@ -1,8 +1,8 @@
 {
-  "version": "1.4.5",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.5/com.rushly.panel.zxp",
-  "sha256": "d7543bc74b79a5b2d4af7c0174385512138695dcd729d60dd806939cecc14819",
-  "notes": "Dérush : choisis « Normal » (comme avant) ou « Agressif » (coupe encore plus). Sous-titres : retrouve tes sous-titres après avoir fermé Premiere, et « Sans ponctuation » garde . ! ? …",
+  "version": "1.4.6",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.6/com.rushly.panel.zxp",
+  "sha256": "f9fee0307f84cca74720c3ca04b6603fbc7a097df43591ecb8c7f6519410ecfb",
+  "notes": "Sous-titres : fini le message « Ouvre la séquence » alors que ta séquence est déjà ouverte — Rushly la remet lui-même au premier plan avant de poser.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false
