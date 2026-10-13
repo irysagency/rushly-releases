@@ -1,8 +1,8 @@
 {
-  "version": "1.4.9",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.9/com.rushly.panel-win.zxp",
-  "sha256": "be501154a099b2fba1e5b60c870863a49749a00a857e02055783de26fadfc667",
-  "notes": "Dérush : plus aucune fin de mot rognée, en Normal comme en Agressif, et plus de bout de mot coupé entendu entre deux plans.",
+  "version": "1.4.10",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.10/com.rushly.panel-win.zxp",
+  "sha256": "3423cfc856ac9ef2dcedeeba4d3551b781f5303c44a478a4a5617b676c9a0b44",
+  "notes": "Sous-titres Tempo : plus de contour fantôme sous le texte ; l'ombre de chaque mot suit sa transparence. Dérush : filet anti-redites plus sûr.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false
