@@ -1,8 +1,8 @@
 {
-  "version": "1.4.7",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.7/com.rushly.panel-win.zxp",
-  "sha256": "2f54effc93aac585f87cb322312a3dd4bd6e26e50013347997de92a63288d032",
-  "notes": "Sous-titres : sur les séquences horizontales (16:9) et en 4K, ils sont à la bonne place et à la bonne taille. Même taille et même position d'une phrase à l'autre. Un mot n'apparaît plus jamais coupé. « Couper avant ce mot » fonctionne. Dérush : les silences cachés dans les mots étirés sont coupés. Premiere ne se fige plus sur la lecture de la sélection.",
+  "version": "1.4.8",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.8/com.rushly.panel-win.zxp",
+  "sha256": "cb313fef7177d23bcb350f66c8ba626700548e07c518cbc4b6b30987a86edf64",
+  "notes": "Sous-titres au format de ta séquence : en 16:9, en 4K, en carré ou en 4:5, l'imbrication et les sous-titres sont à la taille de ton projet. Le mot mis en avant de Mot Ciel et d'Éditorial Serif garde la même taille partout ; seul un mot trop long est réduit. Dérush : montage juste même si la séquence bouge, mode Agressif plus serré.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false
