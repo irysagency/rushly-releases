@@ -1,7 +1,7 @@
 {
-  "version": "1.4.14",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.14/com.rushly.panel-win.zxp",
-  "sha256": "f278e0b1407367ab6532677b2eabf1419879b68f6de2135d6d8a2ae1abf189be",
+  "version": "1.4.15",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.15/com.rushly.panel-win.zxp",
+  "sha256": "5f59c517dc3bee46d791a5da21da0bfecf3da2396350ae604aadf9bb28eeaffb",
   "notes": "Mise à jour obligatoire pour Dérush, Smart Clips et Captions.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
