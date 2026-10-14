@@ -1,8 +1,8 @@
 {
-  "version": "1.4.11",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.11/com.rushly.panel-win.zxp",
-  "sha256": "f3a59549e68a3deadadb42293cf01ee7ad1832eafb667867441c90eb7e055359",
-  "notes": "Plan Gratuit : tes crédits offerts forment désormais un seul solde, à utiliser où tu veux (Dérush, Smart Clips ou Sous-titres). Le badge affiche ce nombre.",
+  "version": "1.4.12",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.12/com.rushly.panel-win.zxp",
+  "sha256": "fb638a5bbcf8956a5723194f4956292aa9a27cd5e3ccddbb7e6a702adbbb3367",
+  "notes": "Envoi de l'audio plus fiable : si ta connexion coupe un instant pendant l'envoi, Rushly réessaie tout seul avant de te montrer une erreur. Dérush, Smart Clips et Sous-titres.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false
