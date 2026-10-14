@@ -2,7 +2,7 @@
   "version": "1.4.14",
   "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.14/com.rushly.panel-win.zxp",
   "sha256": "f278e0b1407367ab6532677b2eabf1419879b68f6de2135d6d8a2ae1abf189be",
-  "notes": "Captions : nouveau bouton « Accords » dans l'onglet Texte. Choisis Femme ou Homme pour la personne qui parle et Rushly accorde le texte (allée, ravie, désolée…). Et l'écriture inclusive en un clic (ami·es, abonné·es).",
+  "notes": "Mise à jour obligatoire pour Dérush, Smart Clips et Captions.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": true
