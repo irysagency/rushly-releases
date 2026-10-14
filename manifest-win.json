@@ -1,8 +1,8 @@
 {
-  "version": "1.4.13",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.13/com.rushly.panel-win.zxp",
-  "sha256": "98f8a8a8d41c0b235fbaded6a3e309668068182f9cba2b6d3e3c6f8707f8c3d4",
-  "notes": "Rushly se met maintenant à jour tout seul, sans redémarrer Premiere : les prochaines corrections arrivent automatiquement.",
+  "version": "1.4.14",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.14/com.rushly.panel-win.zxp",
+  "sha256": "f278e0b1407367ab6532677b2eabf1419879b68f6de2135d6d8a2ae1abf189be",
+  "notes": "Captions : nouveau bouton « Accords » dans l'onglet Texte. Choisis Femme ou Homme pour la personne qui parle et Rushly accorde le texte (allée, ravie, désolée…). Et l'écriture inclusive en un clic (ami·es, abonné·es).",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": true
