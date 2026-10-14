@@ -1,9 +1,9 @@
 {
-  "version": "1.4.12",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.12/com.rushly.panel-win.zxp",
-  "sha256": "fb638a5bbcf8956a5723194f4956292aa9a27cd5e3ccddbb7e6a702adbbb3367",
-  "notes": "Envoi de l'audio plus fiable : si ta connexion coupe un instant pendant l'envoi, Rushly réessaie tout seul avant de te montrer une erreur. Dérush, Smart Clips et Sous-titres.",
+  "version": "1.4.13",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.13/com.rushly.panel-win.zxp",
+  "sha256": "98f8a8a8d41c0b235fbaded6a3e309668068182f9cba2b6d3e3c6f8707f8c3d4",
+  "notes": "Rushly se met maintenant à jour tout seul, sans redémarrer Premiere : les prochaines corrections arrivent automatiquement.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
-  "mandatory": false
+  "mandatory": true
 }
