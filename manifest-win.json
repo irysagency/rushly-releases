@@ -1,10 +1,10 @@
 {
-  "version": "1.4.18",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.18/com.rushly.panel-win.zxp",
-  "sha256": "090d4cfeaef8d0faec1359f7ac92af4ff638694c81a3a30c7fe43768857e853e",
-  "notes": "Mise à jour obligatoire pour Dérush, Smart Clips et Captions.",
+  "version": "1.4.19",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.19/com.rushly.panel-win.zxp",
+  "sha256": "441f880b1315cd706869dd34be7b4827adac8b25e3925a14d1499d5574e8247f",
+  "notes": "Correctif important : Rushly s'ouvre toujours, même si Premiere est fermé pendant une mise à jour automatique. Mise à jour obligatoire.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": true,
-  "size": 71272282
+  "size": 71273295
 }
