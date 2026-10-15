@@ -1,10 +1,10 @@
 {
-  "version": "1.4.20",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.20/com.rushly.panel-win.zxp",
-  "sha256": "ab730ed864653f33eab8778784708b62a03d9db4eb9684582d9664fa326c194d",
-  "notes": "Nouveau : le Dérush marche aussi sur une voix off. Sélectionne ta prise audio seule dans la timeline, sans vidéo, et lance le Dérush.",
+  "version": "1.4.21",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.21/com.rushly.panel-win.zxp",
+  "sha256": "bb1ec7e8da6a53cb8b8597197ec7613c66192c0d07551c05d9d44e3237e96cd0",
+  "notes": "Connexion plus claire : un message dit quoi faire si ça ne passe pas, et « Mot de passe oublié » est sous le champ. Installation guidée jusqu'au bout : l'installeur te dit de relancer Premiere puis d'ouvrir Fenêtre › Extensions › Rushly.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false,
-  "size": 71273655
+  "size": 71276896
 }
