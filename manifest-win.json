@@ -1,10 +1,10 @@
 {
-  "version": "1.4.22",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.22/com.rushly.panel-win.zxp",
-  "sha256": "0c2de917e1d336bd997a42e51766b6faff0682e73ef3d0b2d958ced457f89d5a",
-  "notes": "Nouveau : Safe zone. En bas du panneau, affiche par-dessus ta vidéo l'interface d'Instagram, de TikTok ou de Shorts pour voir ce qu'elle cache, ou les zones Universel (les 3 réseaux) et Ads (pubs). Re-clique pour la retirer, et retire-la avant d'exporter.",
+  "version": "1.4.23",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.23/com.rushly.panel-win.zxp",
+  "sha256": "6c4da5f33d544673d84cbe34099014635aa67310325a0d43746e9621890afeed",
+  "notes": "Sous-titres Tempo : l'ombre reste bien sous le texte, même sur une séquence 4K (rush iPhone).",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false,
-  "size": 71287148
+  "size": 71287188
 }
