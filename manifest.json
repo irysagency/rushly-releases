@@ -1,10 +1,10 @@
 {
-  "version": "1.4.21",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.21/com.rushly.panel.zxp",
-  "sha256": "8d061e9061095c5da118cb78db3a3331cafd3d0ddea34beacd7e03337042a9ed",
-  "notes": "Connexion plus claire : un message dit quoi faire si ça ne passe pas, et « Mot de passe oublié » est sous le champ. Installation guidée jusqu'au bout : l'installeur te dit de relancer Premiere puis d'ouvrir Fenêtre › Extensions › Rushly.",
+  "version": "1.4.22",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.22/com.rushly.panel.zxp",
+  "sha256": "992543181a986f42fba4f913536eedf01e373d782506503ea6ffcc540e97a5b6",
+  "notes": "Nouveau : Safe zone. En bas du panneau, affiche par-dessus ta vidéo l'interface d'Instagram, de TikTok ou de Shorts pour voir ce qu'elle cache, ou les zones Universel (les 3 réseaux) et Ads (pubs). Re-clique pour la retirer, et retire-la avant d'exporter.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false,
-  "size": 45006819
+  "size": 45017055
 }
