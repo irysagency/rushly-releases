@@ -1,10 +1,10 @@
 {
-  "version": "1.4.19",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.19/com.rushly.panel-win.zxp",
-  "sha256": "441f880b1315cd706869dd34be7b4827adac8b25e3925a14d1499d5574e8247f",
-  "notes": "Correctif important : Rushly s'ouvre toujours, même si Premiere est fermé pendant une mise à jour automatique. Mise à jour obligatoire.",
+  "version": "1.4.20",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.20/com.rushly.panel-win.zxp",
+  "sha256": "ab730ed864653f33eab8778784708b62a03d9db4eb9684582d9664fa326c194d",
+  "notes": "Nouveau : le Dérush marche aussi sur une voix off. Sélectionne ta prise audio seule dans la timeline, sans vidéo, et lance le Dérush.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
-  "mandatory": true,
-  "size": 71273295
+  "mandatory": false,
+  "size": 71273655
 }
