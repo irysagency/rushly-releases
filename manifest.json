@@ -1,10 +1,10 @@
 {
-  "version": "1.4.23",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v1.4.23/com.rushly.panel.zxp",
-  "sha256": "48bd8d0e5d76bfd5ae9016f1b575ae99b8311e5ad86a325372dd04b1859cc3bd",
-  "notes": "Sous-titres Tempo : l'ombre reste bien sous le texte, même sur une séquence 4K (rush iPhone).",
+  "version": "2.0.1",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v2.0.1/com.rushly.panel.zxp",
+  "sha256": "be70c74c93c50d74a6e6e6c3ca32c41278c8d2d2b775fb58b78801f46bea2a6c",
+  "notes": "Rushly 2.0 : onglets Son et Zooms (au crédit), presets Affiche et Mot clé, plus besoin de sélectionner (toute la séquence par défaut), Rushly en anglais, espagnol et portugais. Studio et Agency deviennent Rushly Plus et Rushly Max.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false,
-  "size": 45017092
+  "size": 46025496
 }
