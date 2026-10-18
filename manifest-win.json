@@ -1,10 +1,10 @@
 {
-  "version": "2.0.1",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v2.0.1/com.rushly.panel-win.zxp",
-  "sha256": "2439361e161086ae8aaf2d2031745ba37070f79ef12cc416dd4215e7e91f84b0",
-  "notes": "Rushly 2.0 : onglets Son et Zooms (au crédit), presets Affiche et Mot clé, plus besoin de sélectionner (toute la séquence par défaut), Rushly en anglais, espagnol et portugais. Studio et Agency deviennent Rushly Plus et Rushly Max.",
+  "version": "2.0.2",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v2.0.2/com.rushly.panel-win.zxp",
+  "sha256": "e1f12c9ae1f25320cd9d2af0667a9cff798cb898798e558712f88fe4b88b8b52",
+  "notes": "Sous-titres : le dernier mot dit d'un sous-titre n'est plus coupé, il s'affiche toujours à l'écran.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false,
-  "size": 72295588
+  "size": 72296669
 }
