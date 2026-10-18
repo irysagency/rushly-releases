@@ -1,10 +1,10 @@
 {
-  "version": "2.0.2",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v2.0.2/com.rushly.panel-win.zxp",
-  "sha256": "e1f12c9ae1f25320cd9d2af0667a9cff798cb898798e558712f88fe4b88b8b52",
-  "notes": "Sous-titres : le dernier mot dit d'un sous-titre n'est plus coupé, il s'affiche toujours à l'écran.",
+  "version": "2.0.3",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v2.0.3/com.rushly.panel-win.zxp",
+  "sha256": "e73d55d1a62fd3c314c9f009d037a6a051e70ac40b9267940b3c05de734422e7",
+  "notes": "Zooms : crédits rendus si la pose échoue · envois plus fiables · prix dans ta devise.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false,
-  "size": 72296669
+  "size": 72296503
 }
