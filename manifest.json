@@ -1,10 +1,10 @@
 {
-  "version": "2.0.3",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v2.0.3/com.rushly.panel.zxp",
-  "sha256": "c05488baf1a4442fbf9da764bf4834249ae6867bb11691470443d126ebe0bed3",
-  "notes": "Zooms : crédits rendus si la pose échoue · envois plus fiables · prix dans ta devise.",
+  "version": "2.0.4",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v2.0.4/com.rushly.panel.zxp",
+  "sha256": "455be001132373c06da89bf8a69cfa36542113dc8c24cc6f25d6fdc6e8b5bfd4",
+  "notes": "Windows : mises à jour automatiques réparées · nouvelle proposition d'abonnement pour le plan Gratuit.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false,
-  "size": 46026408
+  "size": 46032467
 }
