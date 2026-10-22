@@ -1,10 +1,10 @@
 {
-  "version": "2.0.4",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v2.0.4/com.rushly.panel-win.zxp",
-  "sha256": "2fa39ac4cd3b918cf6ce3f31ca6067cf0a2941cd7106307bcc1894ca6f5d976a",
-  "notes": "Windows : mises à jour automatiques réparées · nouvelle proposition d'abonnement pour le plan Gratuit.",
+  "version": "2.0.5",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v2.0.5/com.rushly.panel-win.zxp",
+  "sha256": "2c23800f8d9641529b05857652e3ca6dd3e1c60bacf0eb6dacd44269017ce9f2",
+  "notes": "Sous-titres : édition du texte bien plus simple et rapide, mots clés à la souris, position des sous-titres en un clic, couleur personnalisée, affichage corrigé quand le panneau est étroit ou en largeur.",
   "page": "https://rushly-ai.app/install",
   "minHostVersion": "24.0.0",
   "mandatory": false,
-  "size": 72302558
+  "size": 72280545
 }
