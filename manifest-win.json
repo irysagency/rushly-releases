@@ -1,10 +1,10 @@
 {
-  "version": "2.0.6",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v2.0.6/com.rushly.panel-win.zxp",
-  "sha256": "1e9772f118c90b4cf35ee4eab1bd63cfce5ad093ef90d4272c90d07298f88551",
-  "notes": "Le plugin s'appelle maintenant AI EDITOR (Rushly) dans Premiere. Tes réglages et tes crédits ne changent pas.",
+  "version": "2.0.7",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v2.0.7/com.rushly.panel-win.zxp",
+  "sha256": "3ec8e069894c5b6adfe5dc419f429fe91b83e0062e73728ffe0f070ddfa9fe5a",
+  "notes": "Le plugin s'appelle maintenant AI Editor, y compris dans le panneau. Ton compte, tes crédits et tes réglages ne changent pas.",
   "page": "https://www.ai-editor.eu/install",
   "minHostVersion": "24.0.0",
   "mandatory": false,
-  "size": 72280366
+  "size": 72280737
 }
