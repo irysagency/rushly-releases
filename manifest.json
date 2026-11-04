@@ -1,10 +1,10 @@
 {
-  "version": "2.0.5",
-  "url": "https://github.com/irysagency/rushly-releases/releases/download/v2.0.5/com.rushly.panel.zxp",
-  "sha256": "95c81f594669102ba9933753e4ce16da82bc181361f1ed5a9faf9e9213f0e0dd",
-  "notes": "Sous-titres : édition du texte bien plus simple et rapide, mots clés à la souris, position des sous-titres en un clic, couleur personnalisée, affichage corrigé quand le panneau est étroit ou en largeur.",
-  "page": "https://rushly-ai.app/install",
+  "version": "2.0.6",
+  "url": "https://github.com/irysagency/rushly-releases/releases/download/v2.0.6/com.rushly.panel.zxp",
+  "sha256": "3323fbc94671fa2b4b822822f4671d80cb96fc43e37e1d265ed838dc02b5f059",
+  "notes": "Le plugin s'appelle maintenant AI EDITOR (Rushly) dans Premiere. Tes réglages et tes crédits ne changent pas.",
+  "page": "https://www.ai-editor.eu/install",
   "minHostVersion": "24.0.0",
   "mandatory": false,
-  "size": 46010462
+  "size": 46010282
 }
